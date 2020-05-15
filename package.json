@@ -1,0 +1,23 @@
+{
+  "name": "jsbot",
+  "version": "1.0.0",
+  "description": "Telegram BOT",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zangar9805/jsbot.git"
+  },
+  "author": "Zang KING",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zangar9805/jsbot/issues"
+  },
+  "homepage": "https://github.com/zangar9805/jsbot#readme"
+}
