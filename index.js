@@ -4,6 +4,6 @@ const bot = new Telegraf('1221287476:AAGs1jEvRyminFH4eRLnr3INdshbz9wDcqU')
 
 bot.start((ctx) => ctx.reply('Welcome'))
 bot.help((ctx) => ctx.reply('Send me a sticker'))
-bot.on('sticker', (ctx) => ctx.reply('👍'))
+bot.on('sticker', (ctx) => ctx.reply('STICKER'))
 bot.hears('hi', (ctx) => ctx.reply('Hey there'))
 bot.launch()
